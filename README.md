@@ -1,2 +1,3 @@
 # SenpaiBurner
-My very First fully working standalone .Net Desktop Application for system specs information and utilization monitor
+My very First fully working standalone .Net Desktop Application for system specs information and utilization monitor.
+The app requires .net and some additonal Dlls which will be ddownloaded automatically whilst installation.
